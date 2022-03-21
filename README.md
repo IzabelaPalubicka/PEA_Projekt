@@ -1,9 +1,9 @@
 # Projektowanie efektywnych algorytmów
 Rozwiązywanie problemu komiwojażera za pomocą różnych metod i algorytmów.
-*zadanie 1
-␣␣␣␣␣-␣Brute Force
-␣␣␣␣␣-␣Branch and Bound
-*zadanie 2
-␣␣␣␣␣-␣Symulowane wyżarzanie 
-*zadanie 3
-␣␣␣␣␣-␣Algorytm genetyczny
+  Zadanie 1
+  ␣␣␣␣␣-␣Brute Force
+  ␣␣␣␣␣-␣Branch and Bound
+  Zadanie 2
+  ␣␣␣␣␣-␣Symulowane wyżarzanie 
+  Zadanie 3
+  ␣␣␣␣␣-␣Algorytm genetyczny
