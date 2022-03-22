@@ -1,0 +1,28 @@
+﻿  DataMatrix.cpp
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\dataMatrix.h(12,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\dataMatrix.h(13,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  GeneticAlgorithm.cpp
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\DataMatrix.h(12,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\DataMatrix.h(13,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\GeneticAlgorithm.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\GeneticAlgorithm.cpp(153,20): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\GeneticAlgorithm.cpp(220,22): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\GeneticAlgorithm.cpp(234,22): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\GeneticAlgorithm.cpp(263,23): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  main.cpp
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\DataMatrix.h(12,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\DataMatrix.h(13,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\main.cpp(75,37): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\main.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\main.cpp(112,21): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\main.cpp(114,22): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\main.cpp(121,21): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\main.cpp(124,22): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\main.cpp(191,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\main.cpp(227,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Pea_zad3.vcxproj -> E:\Documents\Studia\Semestr 5\PEA\zadanie3\Pea_zad3\Debug\Pea_zad3.exe
